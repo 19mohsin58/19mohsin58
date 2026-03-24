@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineer | 🚀 React Frontend Engineer | 📊 Data Science & AI Enthusiast
+👨‍💻 AI and Data Engineer | 🚀 Web and Mobile App Developer | 📊 Software Engineer
 
 🔹 Experienced in Web & Mobile App Development with 2+ years in building scalable applications.
 🔹 Currently working on a CRM system as a React Frontend Engineer ⚛️.
